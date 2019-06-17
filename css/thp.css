@@ -1,0 +1,23 @@
+*
+{
+    box-sizing: border-box;
+}
+body
+{
+    margin: 0px;
+    background: rgb(11, 180, 82);
+}
+.container
+{
+    width: 1000px;
+    margin: auto;
+}
+.img
+{
+    padding: 0px 200px;
+}
+.content
+{
+    background: rgb(194, 163, 25)5;
+    margin: 10px; padding: 5px;
+}
